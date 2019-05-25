@@ -6,5 +6,4 @@ This is a change that I have made in the readme-edits branch.
 
 Hey Romain let's do some changes here again. Just to get really used to it. 
 
-ctk
 
