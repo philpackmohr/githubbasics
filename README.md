@@ -4,4 +4,4 @@ This is a change that I have made in the readme-edits branch.
 
 ## Collab with others
 
-Hey Romain let's do some changes here again. Just to get really used to it. 
+
